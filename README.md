@@ -1,9 +1,7 @@
 # GCP-IaC
 GCP-Iac using Gitlab CI/CD
 
-
-# GCP-Iac
-
+   ![Screenshot 2024-01-26 205308](https://github.com/574n13y/GCP-IaC/assets/35293085/4a81458b-f383-4627-9429-a1897e419ec4)
 
 
 ## Getting started
@@ -52,47 +50,37 @@ Use the built-in continuous integration in GitLab.
 
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
 ## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+  ![Screenshot 2024-01-26 203637](https://github.com/574n13y/GCP-IaC/assets/35293085/04f34cf8-d360-4b20-8b64-cddc94a75760)
+  
+  ![Screenshot 2024-01-26 203733](https://github.com/574n13y/GCP-IaC/assets/35293085/835af225-b378-440b-a13a-3690391d839a)
+  
+  ![Screenshot 2024-01-26 203802](https://github.com/574n13y/GCP-IaC/assets/35293085/8eeb00bd-ee11-4c18-a61a-7577d6b89370)
+  
+  ![Screenshot 2024-01-26 203845](https://github.com/574n13y/GCP-IaC/assets/35293085/8b96be46-aa4b-407d-9930-88d5f5cfc13b)
+  
+  ![Screenshot 2024-01-26 203913](https://github.com/574n13y/GCP-IaC/assets/35293085/2ff85b89-7ead-4291-adc4-73434cfc2c22)
+  
+  ![Screenshot 2024-01-26 204022](https://github.com/574n13y/GCP-IaC/assets/35293085/45d8e36b-21c8-40c7-82bb-99fd91c100c4)
+  
+  ![Screenshot 2024-01-26 204046](https://github.com/574n13y/GCP-IaC/assets/35293085/af95ab1a-a352-48a7-addd-8246086f833a)
+  
+  ![Screenshot 2024-01-26 204116](https://github.com/574n13y/GCP-IaC/assets/35293085/4e760bb5-4592-4add-a7ab-453363c394cc)
+  
+  ![Screenshot 2024-01-26 204149](https://github.com/574n13y/GCP-IaC/assets/35293085/7ac5e17b-82d4-4bbe-b499-61f1d0dacfc2)
+  
+  ![Screenshot 2024-01-26 204243](https://github.com/574n13y/GCP-IaC/assets/35293085/057bce95-5505-4a42-a0ee-7bc1e1b09a65)
+  
+  ![Screenshot 2024-01-26 204859](https://github.com/574n13y/GCP-IaC/assets/35293085/ad209bad-8a76-4063-984b-c76b8f624731)
+  
+  ![Screenshot 2024-01-26 204939](https://github.com/574n13y/GCP-IaC/assets/35293085/e41ed521-a24d-4879-9af4-085b703370fb)
+  
+  ![Screenshot 2024-01-26 205050](https://github.com/574n13y/GCP-IaC/assets/35293085/c980c313-d608-433b-8b34-26e090df3e46)
+  
+  ![Screenshot 2024-01-26 205209](https://github.com/574n13y/GCP-IaC/assets/35293085/32538b83-071f-4f81-af7e-f984ce9fb145)
+
+
+
+
 
